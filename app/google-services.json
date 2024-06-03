@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "170158070872",
+    "project_id": "showsapp-d6190",
+    "storage_bucket": "showsapp-d6190.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170158070872:android:9d09b303d76e5bae75be2d",
+        "android_client_info": {
+          "package_name": "com.devapps.showsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTu9Bol3MTjrZCMjp3aPGtm18bflO3Ao4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
